@@ -1,0 +1,21 @@
+/*{
+    "parser": "babel-eslint",
+    "plugins": [
+      "react"
+    ],
+    "rules": {
+      "no-undef": [ 1 ],
+      "quotes" :["error", "double"],
+      "new-cap" :["error", {"newIsCap":false}],
+      
+      "getter-return":"error",
+      "curly" : ["error","multi"],
+       "spaced-comment":["error","never"],
+        "line-comment-position":["error",{"position":"above"}],
+        "no-warning-comments" :["error"],
+        "no-console":"error",
+        "no-extra-semi":"error",
+
+
+    }
+  }*/
